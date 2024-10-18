@@ -20,7 +20,7 @@ Welcome to the Fatheless Goes To Nature repository for our private server named 
 ### CurseForge Manual
 
 1. Download and install [CurseForge](https://www.curseforge.com/download/app).
-2. Download the [latest release](https://github.com/VeonN4/fatherless-spooky-modpack/releases) of the modpack.
+2. Download the [latest release](https://github.com/VeonN4/fatherless-goes-to-nature/releases) of the modpack.
 3. Open the CurseForge app.
 4. Select Minecraft.
 5. Import the modpack ZIP file.
@@ -36,7 +36,7 @@ Welcome to the Fatheless Goes To Nature repository for our private server named 
 2. Go to **Edit Instance** -> **Settings** -> **Custom commands**.
 3. Add the following command:
     ```sh
-    "$INST_JAVA" -jar packwiz-installer-bootstrap.jar 
+    "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/VeonN4/fatherless-goes-to-nature/refs/heads/main/FA/pack.toml
     ```
 
 ### Manual Minecraft Installation
