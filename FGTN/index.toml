@@ -155,11 +155,6 @@ hash = "e095b04c2ce52a9a08a8b49f970424ea4490b27438953270e02e3e5bc9e87537"
 metafile = true
 
 [[files]]
-file = "mods/matowos-invisible-armor.pw.toml"
-hash = "cd9742d05698ccb734fc28c08ad414523d9da26fbe68298bfbbc6c7e28de1abe"
-metafile = true
-
-[[files]]
 file = "mods/mythic-mounts.pw.toml"
 hash = "c0a69c6704666b1bd631134d6726524e0830c0598f2ca09a12d91e0b6a6f55e2"
 metafile = true
