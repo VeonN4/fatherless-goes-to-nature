@@ -90,6 +90,11 @@ hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "99c856c75baa4e3240d7cf30eb8e4c3410eedcc376fb4657b0cf140008fd9e5d"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e52dd1a8ddc694c62c45c2950ef24be55caf70b356a0e22071433e923409ca91"
 metafile = true
@@ -145,6 +150,11 @@ hash = "897f72ae5afea3fccbe77995fc878c32a8339ca4e1c6d38eedd9027ea4945d4d"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
+metafile = true
+
+[[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "32fc6d799adbf10786ce01bb1ce6ceccd1108e85693c1644ee7e0f32b6567c19"
 metafile = true
@@ -152,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "e095b04c2ce52a9a08a8b49f970424ea4490b27438953270e02e3e5bc9e87537"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
 metafile = true
 
 [[files]]
