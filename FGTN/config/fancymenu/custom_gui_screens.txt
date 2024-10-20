@@ -1,0 +1,14 @@
+type = custom_gui_screens
+
+overridden_screens {
+}
+
+custom_gui {
+  identifier = fatherless_server
+  title = Fatherless Goes To Nature
+  allow_esc = false
+  transparent_world_background = false
+  transparent_world_background_overlay = false
+  pause_game = false
+}
+
