@@ -5,6 +5,70 @@ file = "CHANGELOG.md"
 hash = "92ca7080b3633f1458ffcfd030281265108309531ec17883a0ef91d731e0bcd3"
 
 [[files]]
+file = "config/fancymenu/assets/fatherlessmc_title-2048.png"
+hash = "826f5891a99875c6dabe4690a6cacaa191b8dbe0465acbaf13f2ccbb87a71c96"
+
+[[files]]
+file = "config/fancymenu/assets/gui/changelog_container.png"
+hash = "60ddb3dacbaf2e5bdc825d2e8afbb8ba463ab8888e09087088d9cc8b9dd90682"
+
+[[files]]
+file = "config/fancymenu/assets/gui/scroll_2.png"
+hash = "1638efbfb63a495a39cc12ed99ea87fb282792b5404f17a6d881432716ad5880"
+
+[[files]]
+file = "config/fancymenu/assets/gui/scroll_3.png"
+hash = "19f68d573d304342af9ab8840291a5a1b94622acd755d83ea42efca9bb454c19"
+
+[[files]]
+file = "config/fancymenu/assets/gui/scroll_bar.png"
+hash = "b2157d0eb6f8d3d06ea9eafe17812b7c00cba0076cd212c594844cf9b9a50471"
+
+[[files]]
+file = "config/fancymenu/assets/gui/scrolll.png"
+hash = "4ab4f03cff0886e731ed400f48aad47ce4d306169cf8aeaebe2b0b5ef89984bb"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "88f16daedd47879b716a19b582394ab6f0b061615792d114fb2153719a81d314"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "7063ca1b6fec1fbe6286ea3ba444e50188112322c3be0cb6957f5b1254af8012"
+
+[[files]]
+file = "config/fancymenu/customization/fatherless_title_screen_layout.txt"
+hash = "be210b59f0327281c4ff37a5c0d1a325688273c72ff049b4b1793dc87a7cc390"
+
+[[files]]
+file = "config/fancymenu/dragger_metas.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "bba68d883e5aeab8115bbf531b706aba0a85eef351bac7a210b14e33e892b235"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "9f79a59a7fbfaec2a456ac9a34e1b16f8b67304c8c1b2193ebaf6703ad211b51"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "15f44eb85dde0699cfe6e964d69c155ab820ef50fcdc33b3f103c5b2b74bd97b"
+
+[[files]]
 file = "mods/.index/appleskin.pw.toml"
 hash = "8bdc78f52abc55d7d5c5c6c202062feb2d0fbd837b311f79977b5cc2ad25d86c"
 metafile = true
@@ -91,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "99c856c75baa4e3240d7cf30eb8e4c3410eedcc376fb4657b0cf140008fd9e5d"
+hash = "8ab49738ebea6091cdeffd9da699c7b245d721aeec854e557daac16135fe88b2"
 metafile = true
 
 [[files]]
@@ -150,6 +214,11 @@ hash = "897f72ae5afea3fccbe77995fc878c32a8339ca4e1c6d38eedd9027ea4945d4d"
 metafile = true
 
 [[files]]
+file = "mods/konkrete-fabric.pw.toml"
+hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
 metafile = true
@@ -165,8 +234,13 @@ hash = "e095b04c2ce52a9a08a8b49f970424ea4490b27438953270e02e3e5bc9e87537"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "a85eb02bc9cab71173f94e55c5d6c36d7405ed688e159ace90785a30f7f55e55"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
-hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
+hash = "2af509457d13907cf0b48f2f0997750c07e0349f6522b87f8b4bcd1794aa2559"
 metafile = true
 
 [[files]]
