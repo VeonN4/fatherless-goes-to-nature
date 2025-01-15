@@ -1,3 +1,6 @@
+> [!Important]
+> After the devastating 2 weeks of Minecraft. We officially announce the end of this modpack series, and this repository will be an archive.
+
 > [!Note]
 > Yes, we abandoned the previous modpack.
 
